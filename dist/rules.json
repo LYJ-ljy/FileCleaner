@@ -1,0 +1,17 @@
+{
+    "图片": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".ico", ".svg", ".webp", ".tiff", ".tif", ".heic", ".heif", ".raw", ".cr2", ".nef", ".arw", ".psd", ".ai", ".eps"],
+    "文档": [".pdf", ".doc", ".docx", ".txt", ".md", ".xls", ".xlsx", ".ppt", ".pptx", ".csv", ".rtf", ".odt", ".ods", ".odp", ".wps", ".wpt", ".et", ".dps", ".pages", ".numbers", ".key"],
+    "压缩包": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz", ".iso", ".arj", ".cab", ".tgz", ".tar.gz", ".tar.bz2", ".tar.xz", ".zst"],
+    "视频": [".mp4", ".mkv", ".flv", ".avi", ".mov", ".wmv", ".webm", ".m4v", ".3gp", ".3g2", ".ts", ".mts", ".m2ts", ".rmvb", ".rm", ".vob", ".asf"],
+    "音乐": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".wma", ".m4a", ".ape", ".alac", ".opus", ".mid", ".midi", ".aiff", ".au", ".ra"],
+    "代码": [".py", ".js", ".html", ".css", ".cpp", ".c", ".java", ".go", ".rs", ".ts", ".tsx", ".jsx", ".vue", ".php", ".rb", ".swift", ".kt", ".dart", ".lua", ".sh", ".bash", ".ps1", ".bat", ".cmd", ".sql", ".r", ".scala", ".pl", ".xml", ".yaml", ".yml", ".json", ".toml", ".cfg", ".ini", ".env", ".gradle", ".makefile", ".cmake", ".proto", ".graphql"],
+    "字体": [".ttf", ".otf", ".woff", ".woff2", ".eot", ".ttc"],
+    "可执行程序": [".exe", ".msi", ".apk", ".dmg", ".pkg", ".deb", ".rpm", ".app", ".appimage", ".bin", ".run"],
+    "光盘映像": [".iso", ".nrg", ".mdf", ".mds", ".cue", ".img", ".dmg", ".vhd", ".vhdx", ".vmdk", ".wim"],
+    "电子书": [".epub", ".mobi", ".azw", ".azw3", ".fb2", ".djvu", ".chm", ".cbr", ".cbz", ".cba"],
+    "数据库": [".db", ".sqlite", ".sqlite3", ".mdb", ".accdb", ".dbf", ".frm", ".myd", ".myi"],
+    "备份": [".bak", ".backup", ".old", ".orig", ".tmp", ".temp", ".swp", ".swo"],
+    "日志": [".log", ".trace", ".etl"],
+    "虚拟环境与依赖": [".venv", ".env", ".lock", ".sum"],
+    "其他": []
+}
